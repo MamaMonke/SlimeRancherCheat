@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlimeRancherCheat", "SlimeRancherCheat.csproj", "{0748871E-57B8-483B-9B89-20C7AB5CC899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0748871E-57B8-483B-9B89-20C7AB5CC899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0748871E-57B8-483B-9B89-20C7AB5CC899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0748871E-57B8-483B-9B89-20C7AB5CC899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0748871E-57B8-483B-9B89-20C7AB5CC899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3D75457-C2E5-435D-9A19-E12AC1A86E81}
+	EndGlobalSection
+EndGlobal
